@@ -1,3 +1,3 @@
 # modpacks
 
-mc packs
+minecraft packs
